@@ -1,0 +1,3 @@
+[submodule "hugo-hargo"]
+	path = themes/hargo-hugo
+	url = https://github.com/themefisher/hargo-hugo.git
